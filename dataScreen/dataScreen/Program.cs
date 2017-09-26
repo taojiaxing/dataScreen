@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
+using System.Runtime.Remoting.Messaging;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -14,9 +16,12 @@ namespace dataScreen
         [STAThread]
         static void Main()
         {
+            dataReader reader = new dataReader();
+            DataTable data = reader.Read("E:\test.xlsx");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            
         }
     }
 }
