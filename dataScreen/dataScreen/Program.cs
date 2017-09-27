@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Runtime.Remoting.Messaging;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace dataScreen
@@ -16,8 +13,11 @@ namespace dataScreen
         [STAThread]
         static void Main()
         {
-            dataReader reader = new dataReader();
-            DataTable data = reader.Read("test.xlsx");
+            List<List<Object>> souce = new List<List<Object>>();
+            ExcelReader reader = new ExcelReader();
+            DataTable data = reader.Reader("test.xlsx");
+            Object i = data.Rows[4].ItemArray[3];
+            souce = reader.tableToArrye();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
