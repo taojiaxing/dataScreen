@@ -17,7 +17,7 @@ namespace dataScreen
         static void Main()
         {
             dataReader reader = new dataReader();
-            DataTable data = reader.Read("E:\test.xlsx");
+            DataTable data = reader.Read("test.xlsx");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());

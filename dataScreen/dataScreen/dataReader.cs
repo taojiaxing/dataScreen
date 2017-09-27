@@ -13,12 +13,12 @@ namespace dataScreen
         private DataSet data;
         public DataTable Read(String Path)
         {
-            try
-            {
+            //try
+           // {
 
                 //连接字符串
                 string connstring = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" + Path + ";Extended Properties='Excel 8.0;HDR=NO;IMEX=1';"; // Office 07及以上版本 不能出现多余的空格 而且分号注意
-                //string connstring = Provider=Microsoft.JET.OLEDB.4.0;Data Source=" + path + ";Extended Properties='Excel 8.0;HDR=NO;IMEX=1';"; //Office 07以下版本 
+                //string connstring = "Provider=Microsoft.JET.OLEDB.4.0;Data Source=" + Path + ":Extended Properties='Excel 8.0;HDR=NO;IMEX=1';"; //Office 07以下版本 
                 using (OleDbConnection conn = new OleDbConnection(connstring))
                 {
                     conn.Open();
@@ -32,11 +32,11 @@ namespace dataScreen
                     ada.Fill(data);
                     return data.Tables[0];
                 }
-            }
-            catch (Exception)
+            //}
+            /*catch (Exception)
             {
                 return null;
-            }
+            }*/
         }
         
     }
