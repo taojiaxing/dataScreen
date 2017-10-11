@@ -16,8 +16,20 @@ namespace dataScreen
             List<List<Object>> souce = new List<List<Object>>();
             ExcelReader reader = new ExcelReader();
             DataTable data = reader.Reader("test.xlsx");
-            Object i = data.Rows[4].ItemArray[3];
-            souce = reader.tableToArrye();
+            drawLinechart d = new drawLinechart();
+            DataTable a = new DataTable();
+            /*a.Columns.Add("testDate", typeof(string));
+            a.Columns.Add("testValue", typeof(string));
+            for(int i = 0; i < 12; i++)
+            {
+                DataRow row = a.NewRow();
+                row["testdata"] = i;
+                row["testValue"] = 1 + i;
+                a.Rows.Add(row);
+            }*/
+            d.draw(data);
+           // Object i = data.Rows[0].ItemArray[0];
+            //souce = reader.tableToArrye();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());

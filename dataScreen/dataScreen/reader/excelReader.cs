@@ -5,7 +5,7 @@ using System.Data.OleDb;
 
 namespace dataScreen
 {
-    class ExcelReader : dataReader
+    class ExcelReader : fileReader
     {
         public override DataTable Reader(object Path)
         {
@@ -21,7 +21,6 @@ namespace dataScreen
                     DataTable sheetsName = conn.GetOleDbSchemaTable(OleDbSchemaGuid.Tables, new object[] { null, null, null, "Table" }); //得到所有sheet的名字
                     string firstSheetName = sheetsName.Rows[0][2].ToString(); //得到第一个sheet的名字
                     string sql = string.Format("SELECT * FROM [{0}]", firstSheetName); //查询字符串
-                    //string sql = string.Format("SELECT * FROM [{0}] WHERE [日期] is not null", firstSheetName); //查询字符串
 
                     OleDbDataAdapter ada = new OleDbDataAdapter(sql, connstring);
                     Data = new DataSet();
