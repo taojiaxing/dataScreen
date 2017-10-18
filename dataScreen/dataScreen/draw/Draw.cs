@@ -12,6 +12,6 @@ namespace dataScreen
     {
         public int x { get; set; }
         public int y { get; set; }
-        public abstract Image draw(DataTable data ,string Name);
+        public abstract Image draw(DataTable data ,string Name, Font Bfont);
     }
 }

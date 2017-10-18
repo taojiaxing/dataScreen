@@ -13,6 +13,7 @@ namespace dataScreen
 {
     public partial class form1 : Form
     {
+        Font f = new Font("Arial", 12, FontStyle.Bold);
         public form1()
         {
             InitializeComponent();
@@ -64,13 +65,13 @@ namespace dataScreen
                  a.Rows.Add(row);
              }*/
 
-            display.Image = d.draw(data, s);
+            display.Image = d.draw(data, s, f);
         }
 
         private void titleFont_Click(object sender, EventArgs e)
         {
-
+            fontDialog1.ShowDialog();
+            f = fontDialog1.Font;
         }
-
     }
 }

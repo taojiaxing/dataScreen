@@ -19,7 +19,7 @@ namespace dataScreen
 {
     class drawLinechart : Draw
     {
-        public override System.Drawing.Image draw(DataTable data, string Name)
+        public override System.Drawing.Image draw(DataTable data, string Name, Font Bfont)
         {
             string title = Name;
             string xName = "";
@@ -40,7 +40,7 @@ namespace dataScreen
             //定义银灰色画笔
             Pen Sp = new Pen(Color.Silver);
             //定义大标题字体
-            Font Bfont = new Font("Arial", 12, FontStyle.Bold);
+            //Font Bfont = new Font("Arial", 12, FontStyle.Bold);
             //定义一般字体
             Font font = new Font("Arial", 6);
             //定义大点的字体

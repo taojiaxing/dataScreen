@@ -13,7 +13,7 @@ namespace dataScreen
 {
     class drawFrom : Draw
     {
-        public override Image draw(DataTable data, string Name)
+        public override Image draw(DataTable data, string Name, Font Bfont)
         {
             throw new NotImplementedException();
         }
