@@ -7,12 +7,13 @@ using System.Threading.Tasks;
 using System.Drawing.Imaging;
 using System.Drawing.Drawing2D;
 using System.Collections;
+using System.Drawing;
 
 namespace dataScreen
 {
     class drawFrom : Draw
     {
-        public override void draw(DataTable data)
+        public override Image draw(DataTable data, string Name)
         {
             throw new NotImplementedException();
         }
