@@ -1,0 +1,9 @@
+d:\users\taoji\documents\visual studio 2017\Projects\dataScreen1.1\dataScreen1.1\bin\Debug\dataScreen1.1.exe.config
+d:\users\taoji\documents\visual studio 2017\Projects\dataScreen1.1\dataScreen1.1\bin\Debug\dataScreen1.1.exe
+d:\users\taoji\documents\visual studio 2017\Projects\dataScreen1.1\dataScreen1.1\bin\Debug\dataScreen1.1.pdb
+d:\users\taoji\documents\visual studio 2017\Projects\dataScreen1.1\dataScreen1.1\obj\Debug\dataScreen1.1.csprojResolveAssemblyReference.cache
+d:\users\taoji\documents\visual studio 2017\Projects\dataScreen1.1\dataScreen1.1\obj\Debug\dataScreen1._1.Form1.resources
+d:\users\taoji\documents\visual studio 2017\Projects\dataScreen1.1\dataScreen1.1\obj\Debug\dataScreen1._1.Properties.Resources.resources
+d:\users\taoji\documents\visual studio 2017\Projects\dataScreen1.1\dataScreen1.1\obj\Debug\dataScreen1.1.csproj.GenerateResource.Cache
+d:\users\taoji\documents\visual studio 2017\Projects\dataScreen1.1\dataScreen1.1\obj\Debug\dataScreen1.1.exe
+d:\users\taoji\documents\visual studio 2017\Projects\dataScreen1.1\dataScreen1.1\obj\Debug\dataScreen1.1.pdb
