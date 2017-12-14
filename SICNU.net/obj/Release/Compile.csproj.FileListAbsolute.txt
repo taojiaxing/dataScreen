@@ -1,0 +1,7 @@
+G:\大三上\Project\Tool\Compile\bin\Release\Compile.exe.config
+G:\大三上\Project\Tool\Compile\bin\Release\Compile.exe
+G:\大三上\Project\Tool\Compile\bin\Release\Compile.pdb
+G:\大三上\Project\Tool\Compile\obj\Release\Compile.csprojResolveAssemblyReference.cache
+G:\大三上\Project\Tool\Compile\obj\Release\Compile.csproj.CoreCompileInputs.cache
+G:\大三上\Project\Tool\Compile\obj\Release\Compile.exe
+G:\大三上\Project\Tool\Compile\obj\Release\Compile.pdb

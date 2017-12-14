@@ -1,0 +1,2 @@
+MapTouchSample-ForWpf
+MDIFormSample-ForWinForms

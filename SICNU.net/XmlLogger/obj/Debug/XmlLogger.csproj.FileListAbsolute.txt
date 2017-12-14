@@ -1,0 +1,11 @@
+F:\project\Tool\XmlLogger\bin\Debug\XmlLogger.dll
+F:\project\Tool\XmlLogger\bin\Debug\XmlLogger.pdb
+F:\project\Tool\XmlLogger\obj\Debug\XmlLogger.csprojResolveAssemblyReference.cache
+F:\project\Tool\XmlLogger\obj\Debug\XmlLogger.dll
+F:\project\Tool\XmlLogger\obj\Debug\XmlLogger.pdb
+E:\Tool\Tool\XmlLogger\bin\Debug\XmlLogger.dll
+E:\Tool\Tool\XmlLogger\bin\Debug\XmlLogger.pdb
+E:\Tool\Tool\XmlLogger\obj\Debug\XmlLogger.csprojResolveAssemblyReference.cache
+E:\Tool\Tool\XmlLogger\obj\Debug\XmlLogger.csproj.CoreCompileInputs.cache
+E:\Tool\Tool\XmlLogger\obj\Debug\XmlLogger.dll
+E:\Tool\Tool\XmlLogger\obj\Debug\XmlLogger.pdb

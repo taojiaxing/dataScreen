@@ -1,0 +1,9 @@
+F:\project\Tool\XmlReader\bin\Debug\XmlReader.exe.config
+F:\project\Tool\XmlReader\bin\Debug\XmlReader.exe
+F:\project\Tool\XmlReader\bin\Debug\XmlReader.pdb
+F:\project\Tool\XmlReader\obj\Debug\XmlReader.csprojResolveAssemblyReference.cache
+F:\project\Tool\XmlReader\obj\Debug\XmlReader.Properties.Resources.resources
+F:\project\Tool\XmlReader\obj\Debug\XmlReader.csproj.GenerateResource.Cache
+F:\project\Tool\XmlReader\obj\Debug\XmlReader.exe
+F:\project\Tool\XmlReader\obj\Debug\XmlReader.pdb
+F:\project\Tool\XmlReader\obj\Debug\ShowCompileMessageXML.XMLReader.resources

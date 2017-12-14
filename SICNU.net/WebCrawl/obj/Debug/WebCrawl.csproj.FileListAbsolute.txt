@@ -1,0 +1,13 @@
+G:\大三上\Project\Tool\WebCrawl\bin\Debug\WebCrawl.exe.config
+G:\大三上\Project\Tool\WebCrawl\bin\Debug\WebCrawl.exe
+G:\大三上\Project\Tool\WebCrawl\bin\Debug\WebCrawl.pdb
+G:\大三上\Project\Tool\WebCrawl\obj\Debug\WebCrawl.csprojResolveAssemblyReference.cache
+G:\大三上\Project\Tool\WebCrawl\obj\Debug\WebCrawl.csproj.CoreCompileInputs.cache
+G:\大三上\Project\Tool\WebCrawl\obj\Debug\WebCrawl.exe
+G:\大三上\Project\Tool\WebCrawl\obj\Debug\WebCrawl.pdb
+F:\project\Tool\WebCrawl\bin\Debug\WebCrawl.exe.config
+F:\project\Tool\WebCrawl\bin\Debug\WebCrawl.exe
+F:\project\Tool\WebCrawl\bin\Debug\WebCrawl.pdb
+F:\project\Tool\WebCrawl\obj\Debug\WebCrawl.csprojResolveAssemblyReference.cache
+F:\project\Tool\WebCrawl\obj\Debug\WebCrawl.exe
+F:\project\Tool\WebCrawl\obj\Debug\WebCrawl.pdb

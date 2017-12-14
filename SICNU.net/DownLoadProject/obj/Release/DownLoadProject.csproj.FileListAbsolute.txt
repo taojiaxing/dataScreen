@@ -1,0 +1,8 @@
+G:\大三上\Project\Tool\DownLoadProject\bin\Release\DownLoadProject.exe.config
+G:\大三上\Project\Tool\DownLoadProject\bin\Release\DownLoadProject.exe
+G:\大三上\Project\Tool\DownLoadProject\bin\Release\DownLoadProject.pdb
+G:\大三上\Project\Tool\DownLoadProject\obj\Release\DownLoadProject.csprojResolveAssemblyReference.cache
+G:\大三上\Project\Tool\DownLoadProject\obj\Release\DownLoadProject.csproj.CoreCompileInputs.cache
+G:\大三上\Project\Tool\DownLoadProject\obj\Release\DownLoadProject.exe
+G:\大三上\Project\Tool\DownLoadProject\obj\Release\DownLoadProject.pdb
+G:\大三上\Project\Tool\DownLoadProject\bin\Release\App.config

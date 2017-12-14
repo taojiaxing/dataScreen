@@ -1,0 +1,13 @@
+G:\大三上\Project\Tool\ScreenShot\bin\Debug\ScreenShot.exe.config
+G:\大三上\Project\Tool\ScreenShot\bin\Debug\ScreenShot.exe
+G:\大三上\Project\Tool\ScreenShot\bin\Debug\ScreenShot.pdb
+G:\大三上\Project\Tool\ScreenShot\obj\Debug\ScreenShot.csprojResolveAssemblyReference.cache
+G:\大三上\Project\Tool\ScreenShot\obj\Debug\ScreenShot.csproj.CoreCompileInputs.cache
+G:\大三上\Project\Tool\ScreenShot\obj\Debug\ScreenShot.exe
+G:\大三上\Project\Tool\ScreenShot\obj\Debug\ScreenShot.pdb
+F:\project\Tool\ScreenShot\bin\Debug\ScreenShot.exe.config
+F:\project\Tool\ScreenShot\bin\Debug\ScreenShot.exe
+F:\project\Tool\ScreenShot\bin\Debug\ScreenShot.pdb
+F:\project\Tool\ScreenShot\obj\Debug\ScreenShot.csprojResolveAssemblyReference.cache
+F:\project\Tool\ScreenShot\obj\Debug\ScreenShot.exe
+F:\project\Tool\ScreenShot\obj\Debug\ScreenShot.pdb

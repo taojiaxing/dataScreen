@@ -1,0 +1,13 @@
+G:\大三上\Project\Tool\DownLoadProject\bin\Debug\DownLoadProject.exe.config
+G:\大三上\Project\Tool\DownLoadProject\bin\Debug\DownLoadProject.exe
+G:\大三上\Project\Tool\DownLoadProject\bin\Debug\DownLoadProject.pdb
+G:\大三上\Project\Tool\DownLoadProject\obj\Debug\DownLoadProject.csprojResolveAssemblyReference.cache
+G:\大三上\Project\Tool\DownLoadProject\obj\Debug\DownLoadProject.csproj.CoreCompileInputs.cache
+G:\大三上\Project\Tool\DownLoadProject\obj\Debug\DownLoadProject.exe
+G:\大三上\Project\Tool\DownLoadProject\obj\Debug\DownLoadProject.pdb
+F:\project\Tool\DownLoadProject\bin\Debug\DownLoadProject.exe.config
+F:\project\Tool\DownLoadProject\bin\Debug\DownLoadProject.exe
+F:\project\Tool\DownLoadProject\bin\Debug\DownLoadProject.pdb
+F:\project\Tool\DownLoadProject\obj\Debug\DownLoadProject.csprojResolveAssemblyReference.cache
+F:\project\Tool\DownLoadProject\obj\Debug\DownLoadProject.exe
+F:\project\Tool\DownLoadProject\obj\Debug\DownLoadProject.pdb
